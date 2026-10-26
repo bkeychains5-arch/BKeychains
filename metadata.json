@@ -1,0 +1,6 @@
+{
+  "name": "BKeychains — Official Football Keychain Store",
+  "description": "Interactive flagship store for BKeychains luxury metallic football keychains featuring Premier League, LaLiga, Serie A, and Ligue 1 collections, 3D customizer, and multi-payment IDR checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
